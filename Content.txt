@@ -1,0 +1,88 @@
+Home Page ---------------------------
+This is a site to document the progress of my custom PC build codename: HIVE. This is my third PC build, and my first Micro-ATX (mATX) build. This also happens to be my final project for my GIT 215 class at ASU in the spring semester of my freshman year. On this site you’ll find a comprehensive list of all the parts I will be using, as well as why I chose what I did. I’ve also included contact information so anyone can contact me for advice or help building a computer.
+-------------------------------------
+
+Parts List --------------------------
+-- Parts List --
+See pcpartpicker.html
+
+-- Parts Summary --
+Processor: I chose the processor because it's the most recent and has overclocking capability. I really wanted to get off of the AMD chipsets and move to the more powerful Intel 1151 socket for future upgradability as well.
+
+CPU Cooler: It's a generic choice, but I really chose it for aesthetics. I was stuck between this and the H80i, but I ended up going with this because I like that the radiator covers the entire front of the case from the side panel. I also really like the RGB LED on the block.
+
+Motherboard: I picked the mobo because I wanted to get the best of the best. Asus has so many features and the BiOS is pretty slick too. I was stuck between this and the Gigabyte Z170 Gaming-5 mATX board. I chose this one because I like the way it looks, I wanted the features, and I have the money for it.
+
+Memory: I was cheap memory. It does what it does for the right price so I picked it. 
+
+Storage: I chose the Samsung 950 Pro becuase it's unbelieveably fast. It isn't the biggest capacity, but it's only there for boot and my main programs.
+Storage: The Samsung 840 evo is from my old PC and I figured I could always use more flash storage.
+Storage: The WD Blue 2.5in I got it from my dad's laptop. It saved me $50 on buying a new WD Blue drive. It's for general purpose storage of videos, documents, music and photos.
+
+Video Card: The 970 is a good budget card with awesome performance. When I was picking a manufacturers, I learned that MSI and Asus cards had heat pipes that wouldn't make clearance for the case I chose. Since I didn't want to compromise on the case, I decided to look at reference or EVGA. Found a good card within my budget and there you have it.
+
+Case: I love this case. The aesthetics of it are a perfect fit for me. I wanted to build something small, but not a tower. I wanted a cube and this is the one that piqued my interest the most. I really like the dual chamber design and how well air flows through it. Becuause I'll be living in a small room on my college campus, I think that's important.
+
+Power Supply: Power supplies are pretty easy to get ahold. I wanted something solid with enough power for use in future builds or upgrading this one later. 
+-------------------------------------
+
+About -------------------------------
+-- About Me --
+
+-- About the Project -- 
+-------------------------------------
+
+Contact -----------------------------
+Contact Me
+
+Alabama 
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida 
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnisota
+Mississippi
+Misouri 
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+-------------------------------------
