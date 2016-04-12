@@ -24,6 +24,96 @@
             </ul>
         </nav>
         <h2>Contact Me</h2>
+            <form id="contact" method="post" action="http://webdevbasics.net/scripts/demo.php">
+                <label for="myName">Name*</label>
+                <input type="text" name="myName" id="myName" required="required" placeholder="First and last name">
+
+                <label for="myAddress">Address</label>
+                <input type="text" name="myAddress" id="myAddress" placeholder="Address">
+
+                <label for="myCity">City</label>
+                <input type="text" name="myCity" id="myCity" placeholder="City">
+
+                <label for="myState">State</label>
+                <select size="1" name="myState" id="myState">
+                    <option>Select State</option>
+                    <option>Alabama</option>
+                    <option>Alaska</option>
+                    <option>Arizona</option>
+                    <option>Arkansas</option>
+                    <option>California</option>
+                    <option>Colorado</option>
+                    <option>Connecticut</option>
+                    <option>Delaware</option>
+                    <option>Florida</option>
+                    <option>Georgia</option>
+                    <option>Hawaii</option>
+                    <option>Idaho</option>
+                    <option>Illinois</option>
+                    <option>Indiana</option>
+                    <option>Iowa</option>
+                    <option>Kansas</option>
+                    <option>Kentucky</option>
+                    <option>Louisiana</option>
+                    <option>Maine</option>
+                    <option>Maryland</option>
+                    <option>Massachusetts</option>
+                    <option>Michigan</option>
+                    <option>Minnisota</option>
+                    <option>Mississippi</option>
+                    <option>Missouri</option>
+                    <option>Montana</option>
+                    <option>Nebraska</option>
+                    <option>Nevada</option>
+                    <option>New Hampshire</option>
+                    <option>New Jersey</option>
+                    <option>New Mexico</option>
+                    <option>New York</option>
+                    <option>North Carolina</option>
+                    <option>North Dakota</option>
+                    <option>Ohio</option>
+                    <option>Oklahoma</option>
+                    <option>Oregon</option>
+                    <option>Pennsylvania</option>
+                    <option>Rhode Island</option>
+                    <option>South Carolina</option>
+                    <option>South Dakota</option>
+                    <option>Tennessee</option>
+                    <option>Texas</option>
+                    <option>Utah</option>
+                    <option>Vermont</option>
+                    <option>Virginia</option>
+                    <option>Washington</option>
+                    <option>West Virginia</option>
+                    <option>Wisconsin</option>
+                    <option>Wyoming</option>
+                </select>
+
+                <label for="myZip">Zip</label>
+                <input type="text" name="myZip" id="myZip" placeholder="Zip">
+
+                <label for="myPhone">Phone</label>
+                <input type="tel" name="myPhone" id="myPhone" placeholder="xxx-xxx-xxxx">
+
+                <label for="myEmail">Email*</label>
+                <input type="email" name="myEmail" id="myEmail" placeholder="johndoe@domain.com" required="required">
+
+                <p>Preferred method of contact</p>
+
+                <input type="radio" name="prefCon" id="prefEmail" value="email">
+                <label for="prefEmail">Email</label>
+
+                <input type="radio" name="prefCon" id="prefPhone" value="phone">
+                <label for="prefPhone">Phone</label>
+
+                <label>Comments</label>
+                <textarea name="comments" id="comments" rows="4" cols="20"></textarea>
+
+                <div id="myButtons">
+                    <input type="reset" id="myReset" value="Reset">
+                    <input type="submit" id="mySubmit" value="Submit">
+                </div>
+        </form>
         <footer>
             Copyright Wes Bennett 2016 &copy;
             THIS SITE IS FOR EDUCATIONAL PURPOSES ONLY
