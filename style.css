@@ -28,7 +28,7 @@ html {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 0 0 10px 0;
     padding: 0;
     background-color: #363636;
     overflow: hidden;
@@ -58,11 +58,16 @@ li a:hover:not(.active) {
 h2 {
     color: #363636;
     font-size: 3em;
+    margin: auto;
+    padding: 0;
 }
 
 p {
     color: black;
     font-size: 1.5em;
+    margin: 0;
+    padding: .5em;
+    
 }
 
 /*End Universal Styles*/
@@ -70,7 +75,7 @@ p {
 /*Index Styles*/
 
 #intro {
-    width: 600px;
+    width: 50%;
     float: right;
     margin: 5px;
     padding: 2em 9em 2em 2em;
@@ -83,12 +88,11 @@ p {
     text-align: justify;
     margin: 0;
 }
-/*
 .video {
-    padding: 2em;
+    margin: 5px;
     float: left;
-    width: 560px;
-*/
+    width: 50%;
+    height: auto;
 }
 /*End Index Styles*/
 
@@ -107,6 +111,14 @@ p {
 }
 
 /*End Parts List Styles*/
+
+/*About Styles*/
+
+.about {
+    width: 75%;
+}
+
+/*End About Styles*/
 
 /*Footer Styles*/
 
