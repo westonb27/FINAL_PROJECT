@@ -1,0 +1,119 @@
+/*Header Styles*/
+
+html {
+    font-family: sans-serif;
+}
+#logo {
+    height: 134.5px;
+    width: auto;
+/*    margin: 10px;*/
+/*    padding: .25em;*/
+    float: left;
+}
+#head {
+    font-size: 3.5em;
+    color: #363636;
+    margin: 15px;
+    padding-top: 1em;
+    float: left;
+}
+
+/*End Header Styles*/
+
+.clear {
+    clear: both;
+}
+
+/*Navigation Styles*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #363636;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #DE5C34;
+}
+.active {
+    background-color: #525252;
+    color: white;
+}
+
+/*End Navigation Styles*/
+
+/*Universal Styles*/
+
+h2 {
+    color: #363636;
+    font-size: 3em;
+}
+
+p {
+    color: black;
+    font-size: 1.5em;
+}
+
+/*End Universal Styles*/
+
+/*Index Styles*/
+
+#intro {
+    width: 600px;
+    float: right;
+    margin: 5px;
+    padding: 2em 9em 2em 2em;
+}
+#intro h2 {
+    margin: 0;
+    padding: 0;
+}
+#intro p {
+    text-align: justify;
+    margin: 0;
+}
+/*
+.video {
+    padding: 2em;
+    float: left;
+    width: 560px;
+*/
+}
+/*End Index Styles*/
+
+/*Parts List Styles*/
+
+#summary {
+    float: left;
+    width: 50%;
+}
+#summary ul li {
+    background-color: white;
+}
+#partslist {
+    float: right;
+    width: 50%;
+}
+
+/*End Parts List Styles*/
+
+/*Footer Styles*/
+
+footer {
+    font-family: serif;
+    font-size: .75em;
+    font-style: italic;
+}
+
+/*End Footer Style*/
