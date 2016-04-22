@@ -115,16 +115,25 @@ p {
 
 #summary {
     float: left;
-    width: 50%;
+    width: 480px;
 }
 #summary ul li {
     background-color: white;
+    padding: 5px;
 }
 #partslist {
     float: right;
-    width: 50%;
+    width: 500px;
 }
-
+#airflow {
+    float: right;
+    margin: 10px;
+    padding: 5px 0 0 0;
+}
+span {
+    font-weight: bold;
+    font-size: 18px;
+}
 /*End Parts List Styles*/
 
 /*About Styles*/
