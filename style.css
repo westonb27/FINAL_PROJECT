@@ -92,7 +92,10 @@ p {
 
 #intro {
     width: 480px;
+    height: 304px;
     float: right;
+    margin: auto;
+    padding-right: 1.8em;
 }
 
 #intro p {
@@ -105,6 +108,7 @@ p {
     width: 50%;
     height: auto;
 }
+
 /*End Index Styles*/
 
 /*Parts List Styles*/
