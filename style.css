@@ -85,7 +85,6 @@ p {
     padding: 1em;
     box-shadow: outset 3px 3px -3px -3px #363636;
 }
-
 /*End Universal Styles*/
 
 /*Index Styles*/
@@ -142,6 +141,7 @@ table, td, th{
 .pcpp-part-list-type {
     font-weight: bold;
 }
+
 /*End Parts List Styles*/
 
 /*About Styles*/
@@ -154,55 +154,47 @@ table, td, th{
 
 /*Contact Styles*/
 
-/*
 form {
-    width: 350px;
+    width: 540px;
     margin: 0 auto;
-    padding: 1px;
-    border-radius: em;
+    background-color: white;
+    padding: 10px;
+    border-radius: 1em;
 }
 input {
     display: block;
-    width: 310px;
+    width: 280px;
     height: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     margin-top: 5px;
-    border-radius: 5px;
-    border: 1px inset grey;
+    border-radius: 3px;
+    border: 1px outset gray;
 }
-label {
+label, #preference {
     color: black;
-    font-family: sans-serif;
-    font-size: .9em;
+    font-size: 1em;
+    padding: 0;
 }
 #myReset, #mySubmit {
-    width: 120px;
+    width: 80px;
     display: inline;
-    background-color: #DE5C34;
+    background-color: #525252;
     color: white;
-}
-#myButtons {
-    width: 250px;
-    margin: 0 auto;
 }
 textarea {
     display: block;
-    width: 310px;
-    margin-bottom: 20px;
+    width: 280px;
+    margin-bottom: 15px;
     margin-top: 5px;
-    border-radius: 5px;
-    border: 1px inset grey;
+    border-radius: 3px;
+    border: 1px outset gray;
 }
 select {
     display: block;
-    margin-bottom: 20px;
-    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-top: 3px;
     border-radius: 5px;
-    border: 1px inset grey;
-}
-p {
-    color: white;
-    font-family: sans-serif;
+    border: 1px outset gray;
 }
 #prefEmail, #prefPhone {
     display: inline;
@@ -212,8 +204,6 @@ p {
 #prefPhone {
     margin-left: 20px;
 }
-*/
-
 /*End Contact Styles*/
 
 /*Footer Styles*/
