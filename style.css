@@ -84,7 +84,7 @@ p {
     border: 1px outset #DEDEDE;
     border-radius: 3px;
     padding: 1em;
-    box-shadow: outset 3px 3px -3px -3px #363636;
+    box-shadow: 3px 3px #363636;
 }
 /*End Universal Styles*/
 
@@ -155,7 +155,6 @@ table, td, th{
     font-size: 1em;
     margin-left: 30px;
     width: 780px;
-    font-weight: 0;
     padding: 0;
 }
 .update-head {
