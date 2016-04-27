@@ -118,7 +118,7 @@ p {
     width: 480px;
 }
 #summary ul li {
-    background-color: white;
+    background-color: #F5F5F5;
     padding: 5px;
 }
 #partslist {
@@ -168,7 +168,7 @@ table, td, th{
 form {
     width: 540px;
     margin: 0 auto;
-    background-color: white;
+    background-color: #F5F5F5;
     padding: 10px;
     border-radius: 1em;
 }
